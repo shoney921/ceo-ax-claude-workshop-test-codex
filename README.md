@@ -49,6 +49,10 @@
 | [logout.md](docs/logout.md) | 공용 PC 계정 정리 |
 | [next-steps.md](docs/next-steps.md) | 집에서 이어서 하기 |
 
+## 화면 샘플
+
+- [엑셀 기반 구매·재고 관리 HTML 목업](samples/factory-purchase-inventory/README.md)
+
 ---
 
 ## 이 저장소에 기본적으로 있는 파일들
@@ -59,6 +63,7 @@
 ├── docs/                      👈 워크샵 교재 전부
 │   ├── workshop/              👈 STEP 01~07 실습 문서
 │   └── reference/             👈 사전 과제로 만든 화면 스케치 HTML을 넣습니다
+├── samples/                   👈 이후 개발에 참고할 화면 샘플
 └── .claude/skills/            👈 "배포해줘" / "저장해줘" 라고 말하면 실행되는 자동화
 ```
 
