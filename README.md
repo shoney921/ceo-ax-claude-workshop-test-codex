@@ -53,6 +53,12 @@
 
 - [엑셀 기반 구매·재고 관리 HTML 목업](samples/factory-purchase-inventory/README.md)
 
+## 구매·재고 관리 시스템 화면
+
+저장소 루트의 `index.html`은 `우리공장_구매재고관리_운영본`과 연결되는 운영 화면입니다. 처음 한 번만 [STEP05](docs/workshop/STEP05-google-cloud-setup.md)의 Google Cloud 설정을 마친 뒤, 발급받은 웹 클라이언트 ID를 `config.js`의 `CLIENT_ID`에 넣고 GitHub Pages 주소에서 열면 됩니다.
+
+연결 후 자재·거래처·발주·재고·예약 데이터를 최신 시트 값으로 조회하며, 추천 발주 생성·발주 승인·입고 처리·입출고·생산 예약·기준정보 등록은 원본 시트에 반영됩니다. 삭제 기능은 제공하지 않습니다.
+
 ---
 
 ## 이 저장소에 기본적으로 있는 파일들
